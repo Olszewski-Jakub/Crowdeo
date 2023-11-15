@@ -1,0 +1,9 @@
+[submodule "Crowdeo-Dashboard"]
+	path = Crowdeo-Dashboard
+	url = https://github.com/Olszewski-Jakub/Crowdeo-Dashboard.git
+[submodule "Bamboo"]
+	path = Bamboo
+	url = https://github.com/Olszewski-Jakub/Bamboo.git
+[submodule "Panda"]
+	path = Panda
+	url = https://github.com/Olszewski-Jakub/Panda.git
