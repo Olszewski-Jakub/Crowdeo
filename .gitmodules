@@ -4,6 +4,4 @@
 [submodule "Panda"]
 	path = panda
 	url = https://github.com/Olszewski-Jakub/Panda.git
-[submodule "Crowdeo-Dashboard"]
-	path = Crowdeo-Dashboard
-	url = https://github.com/Olszewski-Jakub/Crowdeo-Dashboard.git
+
