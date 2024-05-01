@@ -32,9 +32,19 @@ const sidebars = {
         {
           type: "category",
           label: "Project Overview",
-          items: ["bamboo/main_features","bamboo/installation_steps","bamboo/tech_stack","bamboo/contribution_guidelines"],
+          items: [
+            "bamboo/projectOverview/main_features",
+            "bamboo/projectOverview/installation_steps",
+            "bamboo/projectOverview/tech_stack",
+            "bamboo/projectOverview/contribution_guidelines",
+          ],
         },
-       
+        //Category includeing information about database
+        {
+          type: "category",
+          label: "System Configuration and Authentication.",
+          items: ["bamboo/database"],
+        },
       ],
     },
   ],

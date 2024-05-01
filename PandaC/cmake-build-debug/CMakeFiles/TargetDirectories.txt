@@ -1,0 +1,3 @@
+C:/Users/jolsz/projects/crowdeo/PandaC/cmake-build-debug/CMakeFiles/PandaC.dir
+C:/Users/jolsz/projects/crowdeo/PandaC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jolsz/projects/crowdeo/PandaC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
